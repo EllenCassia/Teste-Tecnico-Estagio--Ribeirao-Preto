@@ -5,7 +5,7 @@ Este projeto contém soluções para uma série de problemas de programação e 
 # 1. Verificação de Número na Sequência de Fibonacci
 Objetivo: Verificar se um número pertence à sequência de Fibonacci.
 
-[Fibonacci](https://github.com/EllenCassia/Teste-Tecnico-Estagio--Ribeirao-Preto/blob/main/fibonacci.py)
+[Fibonacci](fibonacci.py)
 
 # 2. Contagem da Letra 'a' em uma String
 Objetivo: Verificar a existência e contar a quantidade de vezes que a letra 'a' aparece em uma string.
