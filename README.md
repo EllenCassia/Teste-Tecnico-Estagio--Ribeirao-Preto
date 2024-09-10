@@ -10,29 +10,11 @@ Objetivo: Verificar se um número pertence à sequência de Fibonacci.
 # 2. Contagem da Letra 'a' em uma String
 Objetivo: Verificar a existência e contar a quantidade de vezes que a letra 'a' aparece em uma string.
 
-Código:
-def contar_letra_a(texto):
-    contagem = texto.lower().count('a')
-    return contagem
-    
-texto = input("Digite uma string para contar a letra 'a': ")
-contagem = contar_letra_a(texto)
-print(f"A letra 'a' aparece {contagem} vez(es) na string.")
-Resposta: O código conta e exibe a quantidade de vezes que a letra 'a' (maiúscula ou minúscula) aparece na string fornecida.
+[Contagem](contagem.py)
 
 # 3. Resultado do Código Fornecido
    
-Código:
-INDICE = 12
-SOMA = 0
-K = 1
-
-while K < INDICE:
-    K = K + 1
-    SOMA = SOMA + K
-
-print(SOMA)
-R: O valor final da variável SOMA é 78. O código soma os números de 2 a 11 (inclusive).
+[Soma](soma.py)
 
 # 4. Completação de Sequências Numéricas
 a) 1, 3, 5, 7, 9
