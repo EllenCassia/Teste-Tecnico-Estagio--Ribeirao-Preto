@@ -35,8 +35,13 @@ Desafio: Descobrir qual interruptor controla qual lâmpada usando duas idas até
 Solução:
 
 Ligue o primeiro interruptor e deixe-o ligado por 10 minutos.
+
 Desligue o primeiro interruptor e ligue o segundo.
+
 Vá até as salas das lâmpadas:
+
 A lâmpada acesa é controlada pelo segundo interruptor.
+
 A lâmpada quente e apagada é controlada pelo primeiro interruptor.
+
 A lâmpada fria e apagada é controlada pelo terceiro interruptor.
